@@ -1,0 +1,4 @@
+gauravkaushik882_db_user
+r2477MJOl0JdRHZl
+
+mongodb://<db_username>:<db_password>@ac-qa9wxmb-shard-00-00.jw85rwl.mongodb.net:27017,ac-qa9wxmb-shard-00-01.jw85rwl.mongodb.net:27017,ac-qa9wxmb-shard-00-02.jw85rwl.mongodb.net:27017/?ssl=true&replicaSet=atlas-wfa985-shard-0&authSource=admin&appName=Cluster0
