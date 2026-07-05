@@ -62,6 +62,8 @@ The application is built using the MERN stack with a responsive and user-friendl
 - GitHub
 
 ---
+```text
+
 
 # 📂 Project Structure
 
