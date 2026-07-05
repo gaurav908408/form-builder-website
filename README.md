@@ -64,7 +64,6 @@ The application is built using the MERN stack with a responsive and user-friendl
 ---
 ```text
 
-
 # 📂 Project Structure
 
 ```text
@@ -87,65 +86,47 @@ form-builder-website/
 │   ├── server.js
 │   └── package.json
 │
-│
 ├── README.md
 └── .gitignore
+```
 
 ---
+
 # 📸 Application Screenshots
 
 ## 🏠 Home Page
 
-<img src="https://github.com/user-attachments/assets/d16036d9-225e-487f-ac93-0379ef5e12a2" width="900"/>
-
----
+![Home Page](https://github.com/user-attachments/assets/d16036d9-225e-487f-ac93-0379ef5e12a2)
 
 ## 📝 Register Page
 
-<img src="https://github.com/user-attachments/assets/d2a085bc-c8f1-4a1d-a981-eebbb687e14d" width="900"/>
-
----
+![Register Page](https://github.com/user-attachments/assets/d2a085bc-c8f1-4a1d-a981-eebbb687e14d)
 
 ## 🔐 Login Page
 
-<img src="https://github.com/user-attachments/assets/ad4fcc6a-7ff1-41a0-a4f2-b89034bb7b9c" width="900"/>
-
----
+![Login Page](https://github.com/user-attachments/assets/ad4fcc6a-7ff1-41a0-a4f2-b89034bb7b9c)
 
 ## 📊 Dashboard
 
-<img src="https://github.com/user-attachments/assets/c9060ab2-2a03-451a-942d-5517a04f15b8" width="900"/>
-
----
+![Dashboard](https://github.com/user-attachments/assets/c9060ab2-2a03-451a-942d-5517a04f15b8)
 
 ## ➕ Create Form
 
-<img src="https://github.com/user-attachments/assets/c552e45e-340f-4ca1-bb65-d779db4b78a5" width="900"/>
-
----
+![Create Form](https://github.com/user-attachments/assets/c552e45e-340f-4ca1-bb65-d779db4b78a5)
 
 ## ✏️ Add Text Field
 
-<img src="https://github.com/user-attachments/assets/699484c7-dd14-439c-a7a4-71b1c82e73f7" width="900"/>
-
----
+![Add Text Field](https://github.com/user-attachments/assets/699484c7-dd14-439c-a7a4-71b1c82e73f7)
 
 ## 📋 Feedback Window
 
-<img src="https://github.com/user-attachments/assets/a9230d1b-d036-4c61-b7a1-b65050a49778" width="900"/>
-
----
+![Feedback Window](https://github.com/user-attachments/assets/a9230d1b-d036-4c61-b7a1-b65050a49778)
 
 ## 📈 Response Window
 
-<img src="https://github.com/user-attachments/assets/79a827f4-c923-4c55-aa3d-fa8fb9265dcd" width="900"/>
+![Response Window](https://github.com/user-attachments/assets/79a827f4-c923-4c55-aa3d-fa8fb9265dcd)
 
-
-
-
-
-
-
+---
 
 # 🚀 Installation
 
