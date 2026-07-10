@@ -139,13 +139,15 @@ export default function PublicFormPage() {
           )}
 
           {form.fields.length > 0 && (
-            <button
-              type="submit"
-              className="w-full bg-blue-600 hover:bg-blue-700 text-white py-3 rounded-lg font-semibold mt-4"
-            >
-              Submit Response
-            </button>
-          )}
+  <div className="flex justify-center mt-4">
+    <button
+      type="submit"
+      className="bg-green-600 hover:bg-green-700 text-white px-6 py-2 rounded-lg font-semibold transition duration-300"
+    >
+      Submit Response
+    </button>
+  </div>
+)}
 
         </form>
 
